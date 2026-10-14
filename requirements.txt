@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+pypdf
+groq
+pandas
